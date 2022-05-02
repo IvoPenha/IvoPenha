@@ -5,7 +5,7 @@
 <h3> :adult: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Aprendendo novas tecnologias e me esforçando para  desenvolver sistemas.
-- 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="link da sua faculdade">Instituto Federal do Ceará.</a>.
+- 🎓 &nbsp; Estudando **Ciência da Computação** no <b>Instituto Federal do Ceará.</b>.
 - 💼 &nbsp; Buscando oportunidade como **Estágiario** 
 - 🌱 &nbsp; Aprendendo mais sobre **Tecnologias Front-End**.
 
