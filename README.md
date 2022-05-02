@@ -42,6 +42,6 @@
 
 <h3> :earth_americas: &nbsp;Contatos: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Ivo_Penha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-penha-7389651a2/)]()
+[![Linkedin: Ivo_Penha](https://img.shields.io/badge/-Ivo_Penha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-penha-7389651a2/")]()
 [![Gmail Badge](https://img.shields.io/badge/-ivoxps@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivoxps@gmail.com)](mailto:ivoxps@gmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/IvoPenha?label=follow&style=social)]
