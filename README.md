@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=IvoPenhas&color=006bed)
 ## :wave:	 Opa, meu nome é <strong>Pedro Ivo!</strong>
 
 <h3> :adult: &nbsp;Sobre mim </h3>
