@@ -1,4 +1,3 @@
-
 ![](https://komarev.com/ghpvc/?username=IvoPenhas&color=006bed)
 ## :wave:	 Opa, meu nome é <strong>Pedro Ivo!</strong>
 
@@ -6,15 +5,15 @@
 
 - 🤔 &nbsp; Aprendendo novas tecnologias e me esforçando para  desenvolver sistemas.
 - 🎓 &nbsp; Estudando **Ciência da Computação** no <b>Instituto Federal do Ceará.</b>.
-- 💼 &nbsp; Buscando oportunidade como **Estágiario** 
-- 🌱 &nbsp; Aprendendo mais sobre **Tecnologias Front-End**.
+- 💼 &nbsp; Estágiario no Instituto Federal do Ceará, com foco em desenvolvimento react.
+- 💼 &nbsp; Desenvolvedor React Freelancer - Neocode Solutions. 
+- 🌱 &nbsp; Sempre buscando aprender sobre **Tecnologias Front-End**.
 
 <h3> :rocket: &nbsp;Minhas habilidades: </h3>
 
 **Linguagens**
 
- 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -22,16 +21,15 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
-**DevOps**
+**Versionamento**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
 
 <br/>
 
