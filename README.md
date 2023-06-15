@@ -8,8 +8,8 @@
   </br>
   </br>
     Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
-  </br> 
   </br>
+   </br>
   Também atuo presto serviço freelance como <strong>Desenvolvedor Front-end</strong> Para a NeoCode Solutions, uma software house.
 </p>
 
@@ -58,6 +58,10 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+</br>
+
+---
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoPenha&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
