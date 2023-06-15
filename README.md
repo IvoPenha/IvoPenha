@@ -18,7 +18,7 @@
 </p>
 
 <div align="left">
-  <a href="mailto:penha.ivo.dev" target="_blank">
+  <a href="mailto:penha.ivo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:matheusfelipetp@outlook.com" alt="Gmail"/>
   </a>
 
