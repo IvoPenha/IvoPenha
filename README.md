@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/7gRkfch/Png-Item-1272225.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" style="filter:brightness(60%);" >
+<img src="https://i.ibb.co/7gRkfch/Png-Item-1272225.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="400px" >
 
 <h3>:wave: Opa, meu nome é Pedro Ivo! Bem vindo ao meu Github</h3>
 
@@ -7,13 +7,9 @@
   Me chamo Ivo Penha, tenho 22 anos. Estou me formando em Ciência da Computação no IFCE de Maracanáu, com foco no Desenvolvimento de Sistemas</strong>.
   </br>
   </br>
-  <div>
-
     Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
-    <p>
-      Também atuo presto serviço freelance como <strong>Desenvolvedor Front-end</strong> Para a NeoCode Solutions, uma software house.
-    </p>
-  </div>
+  </br>
+  Também atuo presto serviço freelance como <strong>Desenvolvedor Front-end</strong> Para a NeoCode Solutions, uma software house.
 </p>
 
 <p align="left">
