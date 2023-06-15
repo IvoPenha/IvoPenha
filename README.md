@@ -10,7 +10,7 @@
     Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
   </br>
    </br>
-  Também atuo presto serviço freelance como <strong>Desenvolvedor Front-end</strong> Para a NeoCode Solutions, uma software house.
+  Também atuo presto serviço <em>freelance</em> como <strong>Desenvolvedor Front-end</strong> na NeoCode Solutions, uma software house.
 </p>
 
 <p align="left">
