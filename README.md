@@ -1,7 +1,7 @@
 
-<img src="https://i.ibb.co/7gRkfch/Png-Item-1272225.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="400px" >
+<img src="https://i.ibb.co/7gRkfch/Png-Item-1272225.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="300px" height="300px" >
 
-<h3>:wave: Opa, meu nome é Pedro Ivo! Bem vindo ao meu Github</h3>
+<h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
 <p align="left"> 
   Me chamo Ivo Penha, tenho 22 anos. Estou me formando em Ciência da Computação no IFCE de Maracanáu, com foco no Desenvolvimento de Sistemas</strong>.
