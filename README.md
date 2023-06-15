@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/7gRkfch/Png-Item-1272225.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="350px" height="350px" >
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
@@ -8,6 +8,7 @@
   </br>
   </br>
     Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
+  </br> 
   </br>
   Também atuo presto serviço freelance como <strong>Desenvolvedor Front-end</strong> Para a NeoCode Solutions, uma software house.
 </p>
