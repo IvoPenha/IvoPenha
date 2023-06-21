@@ -1,6 +1,5 @@
 
-<img src="https://i.ibb.co/7gRkfch/Png-Item-1272225.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="300px" height="300px" mix-blend-mode="multiply">
-align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
+<img src="[https://i.ibb.co/7gRkfch/Png-Item-1272225.png](https://raw.githubusercontent.com/IvoPenha/IvoPenha/main/—Pngtree—programmers%20code%20the%20website%20from_4157704.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="300px" height="300px" mix-blend-mode="multiply" style="mix-blend-mode: multiply">
 
 <h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
