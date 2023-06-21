@@ -1,5 +1,6 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
+<img src="https://i.ibb.co/7gRkfch/Png-Item-1272225.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="300px" height="300px" >
+align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
 
 <h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
