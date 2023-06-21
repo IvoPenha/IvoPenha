@@ -1,6 +1,4 @@
-
-<img src="https://raw.githubusercontent.com/IvoPenha/IvoPenha/main/—Pngtree—programmers%20code%20the%20website%20from_4157704.png" min-width="400px" max-width="400px" width="400px" align="right" alt="ManInComputer" filter = "brightness(60%)" max-height="300px" height="300px" mix-blend-mode="multiply" style="mix-blend-mode: multiply">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
 <h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
 <p align="left"> 
