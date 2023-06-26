@@ -58,8 +58,4 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 </br>
 
----
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoPenha&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
