@@ -34,6 +34,10 @@
 
   **Aplicações e Dados:**
   
+  ![CSHARP](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
+  ![DOTNET](https://img.shields.io/badge/-.Net-333333?style=flat&logo=DotNet)
+  ![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![SQLSERVER](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=SqlServer)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -41,8 +45,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-  ![CSHARP](https://img.shields.io/badge/-SASS-333333?style=flat&logo=csharp)
-  ![DOTNET](https://img.shields.io/badge/-SASS-333333?style=flat&logo=DotNet)
 
 **DevOps:**
 
