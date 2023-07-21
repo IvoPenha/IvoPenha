@@ -8,7 +8,7 @@
     Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
   </br>
    </br>
-  Também atuo presto serviço <em>freelance</em> como <strong>Desenvolvedor Front-end</strong> na NeoCode Solutions, uma software house.
+  Também atuo presto serviço <em>freelance</em> como <strong>Desenvolvedor FullStack</strong> na NeoCode Solutions, uma software house.
 </p>
 
 <p align="left">
@@ -41,6 +41,8 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=red)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
+  ![CSHARP](https://img.shields.io/badge/-SASS-333333?style=flat&logo=csharp)
+  ![DOTNET](https://img.shields.io/badge/-SASS-333333?style=flat&logo=DotNet)
 
 **DevOps:**
 
