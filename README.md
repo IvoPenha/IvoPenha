@@ -34,7 +34,7 @@
 
   **Aplicações e Dados:**
   
-  ![CSHARP](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
+  ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![DOTNET](https://img.shields.io/badge/-.Net-333333?style=flat&logo=DotNet)
   ![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![SQLSERVER](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=SQLServer)
