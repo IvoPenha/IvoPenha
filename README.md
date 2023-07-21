@@ -5,10 +5,10 @@
   Me chamo Ivo Penha, tenho 22 anos. Estou me formando em Ciência da Computação no IFCE de Maracanáu, com foco no Desenvolvimento de Sistemas</strong>.
   </br>
   </br>
-    Atualmente, atuo como <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
+  Atualmente presto serviço como <em>freelance</em> <strong>Desenvolvedor FullStack</strong> na NeoCode Solutions, uma software house.
   </br>
+    também atuo como bolsista <strong>Desenvolvedor Front-end</strong> no Núcleo de Desenvolvimento de Software do IFCE.
    </br>
-  Também atuo presto serviço <em>freelance</em> como <strong>Desenvolvedor FullStack</strong> na NeoCode Solutions, uma software house.
 </p>
 
 <p align="left">
