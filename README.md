@@ -6,8 +6,9 @@
 <h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
 <p align="left"> 
-  Me chamo Ivo Penha, tenho 22 anos. Sou um <strong>desenvolvedor FullStack </strong>.
+  Me chamo Ivo Penha, tenho 22 anos. Sou um <strong>desenvolvedor FullStack</strong>
   </br>
+  Tenho vivência em tecnologias SPA, e .Net e Node no back. Confira minhas experiências:
 </p>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFWN4xfqHoAcA/company-logo_200_200/0/1674750502384?e=1698883200&v=beta&t=_wA2yCjET-YhlbC_lReWEg0abdqjZim5hPtJzUbw21g"/>]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/))
