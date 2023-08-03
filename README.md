@@ -11,6 +11,15 @@
    </br>
 </p>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+
+**Software Engineer** \
+[**SpaceX**](https://www.spacex.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+<br/>
+
+
 <p align="left">
   Entre em contato comigo através das minhas redes sociais: ⤵️
 </p>
