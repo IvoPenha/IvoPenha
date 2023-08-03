@@ -8,7 +8,7 @@
   Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 </p>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFWN4xfqHoAcA/company-logo_200_200/0/1674750502384?e=1698883200&v=beta&t=_wA2yCjET-YhlbC_lReWEg0abdqjZim5hPtJzUbw21g"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFWN4xfqHoAcA/company-logo_200_200/0/1674750502384?e=1698883200&v=beta&t=_wA2yCjET-YhlbC_lReWEg0abdqjZim5hPtJzUbw21g"/>]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/))
 
 **Desenvolvedor Fullstack** \
 [**NeoCode**]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/)/) • Freelance \
