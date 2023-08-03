@@ -1,7 +1,8 @@
-<div>
+<div align="center">
 <img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" height="350" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
 </div>
 ###
+<div>
 <h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
 <p align="left"> 
@@ -16,7 +17,6 @@
 Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `C#`, `Typescript`\
 <br/>
 
-
 <img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.ffor1-3.fna.fbcdn.net/v/t39.30808-6/308335895_130184283099621_8545925134963420655_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mGCRtjBGRwkAX8xbdG_&_nc_ht=scontent.ffor1-3.fna&oh=00_AfAkIEs4mA4xmgAV_qMZAzw6-ChX6fuZ0SrDwFxp_z1FjA&oe=64CF9311"/>
 
 **Desenvolvedor Frontend** \
@@ -25,6 +25,7 @@ Linguagens & Tecnologias: `React`, `Angular`, `Typescript`\
 Projeto em destaque: [SYSRA](sysra-h.maracanau.ifce.edu.br)
 <br/>
 
+</div>
 
 <p align="left">
   Entre em contato comigo através das minhas redes sociais: ⤵️
