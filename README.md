@@ -16,16 +16,15 @@
 **Desenvolvedor Fullstack** \
 [**NeoCode**]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/)/) • Freelance \
 Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `C#`, `Typescript`\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent.ffor1-3.fna.fbcdn.net/v/t39.30808-6/308335895_130184283099621_8545925134963420655_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mGCRtjBGRwkAX8xbdG_&_nc_ht=scontent.ffor1-3.fna&oh=00_AfAkIEs4mA4xmgAV_qMZAzw6-ChX6fuZ0SrDwFxp_z1FjA&oe=64CF9311"/>]
 
 **Desenvolvedor Frontend** \
-[**NeoCode**]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/)/) • Bolsista \
+[**NDS - IFCE**] • Bolsista \
 Linguagens & Tecnologias: `React`, `Angular`, `Typescript`\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Projeto em destaque: [SYSRA](sysra-h.maracanau.ifce.edu.br)
 <br/>
 
 
