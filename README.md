@@ -15,7 +15,7 @@
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Freelance \
-Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `C#`,,\
+Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `C#`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
