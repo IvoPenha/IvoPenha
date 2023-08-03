@@ -8,7 +8,8 @@
 <p align="left"> 
   Me chamo Ivo Penha, tenho 22 anos. Sou um <strong>desenvolvedor FullStack</strong>
   </br>
-  Tenho vivência em tecnologias SPA, e .Net e Node no back. Confira minhas experiências:
+  Tenho vivência em tecnologias SPA, e .Net e NodeJS no back. Confira minhas experiências <strong>abaixo</strong>:
+  </br>
 </p>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFWN4xfqHoAcA/company-logo_200_200/0/1674750502384?e=1698883200&v=beta&t=_wA2yCjET-YhlbC_lReWEg0abdqjZim5hPtJzUbw21g"/>]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/))
