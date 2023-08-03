@@ -7,8 +7,6 @@
 <p align="left"> 
   Me chamo Ivo Penha, tenho 22 anos. Sou um <strong>desenvolvedor FullStack</strong>
   </br>
-  Tenho vivência em React e Angular no Frontend, com .Net e NodeJS no Backend. 
-  </br>
   Confira minhas experiências <strong>abaixo</strong>:
 </p>
 
