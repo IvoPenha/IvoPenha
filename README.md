@@ -1,11 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
+<img src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
 <h3>:wave: Opa! Bem vindo ao meu Github</h3>
 
 <p align="left"> 
-  Me chamo Ivo Penha, tenho 22 anos. Estou me formando em Ciência da Computação no IFCE de Maracanáu, com foco no Desenvolvimento de Sistemas</strong>.
+  Me chamo Ivo Penha, tenho 22 anos. Sou um desenvolstrong>.
   </br>
-  </br>
-  Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 </p>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFWN4xfqHoAcA/company-logo_200_200/0/1674750502384?e=1698883200&v=beta&t=_wA2yCjET-YhlbC_lReWEg0abdqjZim5hPtJzUbw21g"/>]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/))
