@@ -22,7 +22,10 @@ Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `C#`, `Typescript`\
 **Desenvolvedor Frontend** \
 [**NDS - IFCE**] • Bolsista \
 Linguagens & Tecnologias: `React`, `Angular`, `Typescript`\
-Projeto em destaque: <a href="sysra-h.maracanau.ifce.edu.br" target="_blank">SYSRA</a>
+
+Projeto em destaque:  <a href="https://sysra-h.maracanau.ifce.edu.br" target="_blank">
+   SysRA
+  </a>
 <br/>
 
 </div>
