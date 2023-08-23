@@ -55,7 +55,7 @@ Projeto em destaque:  <a href="https://sysra-h.maracanau.ifce.edu.br" target="_b
   
   ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![DOTNET](https://img.shields.io/badge/-.Net-333333?style=flat&logo=DotNet)
-  ![NODEJS](https://img.shields.io/badge/-.NodeJs-333333?style=flat&logo=NodeJs)
+  ![NODEJS](https://img.shields.io/badge/-.NodeJs-333333?style=flat&logo=nodedotjs)
   ![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![SQLSERVER](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=SQLServer)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
