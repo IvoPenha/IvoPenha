@@ -17,7 +17,7 @@
 Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `C#`, `Typescript`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://ifce.edu.br/prpi/documentos-1/semic/2018/logo-ifce-vertical.png/@@images/a8ec0f9c-0cbd-499c-a903-e034b8b8579e.png"/>
+<img align="left" height="94px" width="94px" alt="NDS - IFCE" src="https://oche.ifce.edu.br/assets/img/logo_ifce.png"/>
 
 **Desenvolvedor Frontend** \
 [**NDS - IFCE**] • Bolsista \
