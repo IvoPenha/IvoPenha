@@ -14,7 +14,7 @@
 
 **Desenvolvedor Fullstack** \
 [**NeoCode**]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/)/) • Freelance \
-Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `C#`, `Typescript`\
+Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `NodeJS`, `Typescript`\
 <br/>
 
 <img align="left" height="94px" width="94px" alt="NDS - IFCE" src="https://oche.ifce.edu.br/assets/img/logo_ifce.png"/>
