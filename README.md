@@ -1,5 +1,5 @@
 <div align="center">
-<img src="output-onlinegiftools.gif" height="400" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
+<img src="output-onlinegiftools.gif" height="350" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
 </div>
 
 
