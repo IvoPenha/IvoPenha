@@ -24,7 +24,6 @@
   <a href="mailto:penha.ivo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:penha.ivo.dev@gmail.com" alt="Gmail"/>
   </a>
-  https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail
   <a href="https://api.whatsapp.com/send?phone=85997753919" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-075E54?style=flat-square&labelColor=075E54&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
