@@ -22,7 +22,7 @@
 <div align="left">
 <div align="left">
   <a href="mailto:penha.ivo.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:penha.ivo.dev@gmail.com" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-DB4437?style=flat-square&labelColor=DB4437&logo=gmail&logoColor=white&link=mailto:penha.ivo.dev@gmail.com" alt="Gmail"/>
   </a>
   
   <a href="https://api.whatsapp.com/send?phone=85997753919" target="_blank">
