@@ -1,4 +1,4 @@
-<img src="Wasting Time.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="animation-1698422220161(1)_b58d4f2b.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <h3 align="left">Opa, bem-vindo(a) ao meu Github! :wave:</h3>
