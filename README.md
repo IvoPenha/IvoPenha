@@ -36,14 +36,46 @@ Projeto em destaque:  <a href="https://sysra-h.maracanau.ifce.edu.br" target="_b
   Entre em contato comigo através das minhas redes sociais: ⤵️
 </p>
 
+
+</br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
+
+<p align="left"> 
+  Me chamo Pedro Ivo tenho 22 anos e sou <strong> Desenvolvedor FullStack </strong>.
+  </br>
+  </br>
+  Atualmente, atuo como <strong>Desenvolvedor Fullstack</strong> no Núcleo de Desenvolvimento de Software do IFCE.
+
+  Também atuo e presto serviço freelance como Desenvolvedor Fullstack na <em>NeoCode Solutions</em> , uma software house.
+</p>
+
+
+  
+  
+</div>  
+
+<p align="left">
+  Entre em contato comigo através das minhas redes sociais: ⤵️
+</p>
+
+
+<div align="left">
 <div align="left">
   <a href="mailto:penha.ivo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:matheusfelipetp@outlook.com" alt="Gmail"/>
+  </a>
+  
+  <a href="https://api.whatsapp.com/send?phone=85997753919" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ivo-penha/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfelipetp" alt="Linkedin" />
   </a>
+  
+</div>  
   
 </div>  
 
