@@ -1,46 +1,4 @@
-<div align="center">
-<img src="hero.gif" height="100" align="right" alt="Computador" pointer-events= "none" style="pointer-events: none">
-</div>
-
-
-<div width="400" min-width="400" align="left">
-<h3>:wave: Opa! Bem vindo ao meu Github</h3>
-
-<p align="left"> 
-  Me chamo Ivo Penha, tenho 22 anos. Sou um <strong>desenvolvedor FullStack</strong>
-  </br>
-  Confira minhas experiências <strong>abaixo</strong>:
-</p>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4D0BAQFWN4xfqHoAcA/company-logo_200_200/0/1674750502384?e=1698883200&v=beta&t=_wA2yCjET-YhlbC_lReWEg0abdqjZim5hPtJzUbw21g"/>]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/))
-
-**Desenvolvedor Fullstack** \
-[**NeoCode**]([https://www.neocodesolutions.com](https://www.linkedin.com/company/neo-code-solutions/)/) • Freelance \
-Linguagens & Tecnologias: `React`, `Angular`, `.Net Core`, `NodeJS`, `Typescript`\
-<br/>
-
-<img align="left" height="94px" width="94px" alt="NDS - IFCE" src="https://oche.ifce.edu.br/assets/img/logo_ifce.png"/>
-
-**Desenvolvedor Frontend** \
-[**NDS - IFCE**] • Bolsista \
-Linguagens & Tecnologias: `React`, `Angular`, `Typescript`, `.Net Core`
-
-Projeto em destaque:  <a href="https://sysra-h.maracanau.ifce.edu.br" target="_blank">
-   SysRA
-  </a>
-<br/>
-
-</div>
-
-<p align="left">
-  Entre em contato comigo através das minhas redes sociais: ⤵️
-</p>
-
-
-</br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<h3>Olá, bem-vindo(a) ao meu Github! :wave:</h3>
+<h3>Opa, bem-vindo(a) ao meu Github! :wave:</h3>
 
 <p align="left"> 
   Me chamo Pedro Ivo tenho 22 anos e sou <strong> Desenvolvedor FullStack </strong>.
