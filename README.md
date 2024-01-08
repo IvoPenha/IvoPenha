@@ -7,7 +7,7 @@
   Me chamo Pedro Ivo tenho 22 anos e sou <strong> Desenvolvedor FullStack </strong> com Mais de <strong>  02 anos  </strong> de experiencia .
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Fullstack</strong> para Undefined Technologies uma startup
+  Atualmente, atuo como <strong>Desenvolvedor Fullstack</strong> em uma startup.
 </p>
 
 
