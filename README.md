@@ -18,6 +18,12 @@
 </div>  
 
 <p align="left">
+  <a href="https://ivopenha.site" target="_blank">
+    Confira meu portfólio
+  </a>
+</p>
+
+<p align="left">
   Entre em contato comigo através das minhas redes sociais: ⤵️
 </p>
 
@@ -31,7 +37,7 @@
   <a href="https://api.whatsapp.com/send?phone=85997753919" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-075E54?style=flat-square&labelColor=075E54&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-
+    
   <a href="https://www.linkedin.com/in/ivo-penha/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-penha" alt="Linkedin" />
   </a>
