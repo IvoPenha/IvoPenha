@@ -4,7 +4,7 @@
 <h3 align="left">Opa, bem-vindo(a) ao meu Github! :wave:</h3>
 
 <p align="left"> 
-  Me chamo Pedro Ivo tenho 22 anos e sou <strong> Desenvolvedor FullStack </strong> com  <strong> Mais de 02 anos de experiencia </strong> .
+  Me chamo Pedro Ivo tenho 22 anos e sou <strong> Desenvolvedor FullStack </strong> com Mais de <strong>  02 anos  </strong> de experiencia .
   </br>
   </br>
   Atualmente, atuo como <strong>Desenvolvedor Fullstack</strong> para Undefined Technologies uma startup
