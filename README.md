@@ -17,9 +17,7 @@
 
 <p align="left">
    Confira meu portfólio:
-  <a href="https://ivopenha.site" target="_blank">
-     ivopenha.site
-  </a>
+     [ivopenha.site](https://ivopenha.site)
 </p>
 
 <p align="left">
