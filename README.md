@@ -12,7 +12,7 @@
 <p align="left">
    Check out my portfolio:
   
-  <a href="https://ivopenha.site" target="_blank">
+  <a href="https://ivopenha.site?locale=en" target="_blank">
      ivopenha.site
   </a>
 </p>
