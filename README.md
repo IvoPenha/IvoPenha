@@ -1,22 +1,16 @@
 <img src="literally_me.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-<h3 align="left">Opa, bem-vindo(a) ao meu Github! :wave:</h3>
+<h3 align="left">Hey there, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-  Me chamo Pedro Ivo tenho 22 anos e sou <strong> Desenvolvedor FullStack </strong> com Mais de <strong>  03 anos  </strong> de experiencia .
+  My name is Pedro Ivo, I'm 23 years old, and I'm a <strong>FullStack Developer</strong> with over <strong>4 years</strong> of experience.
   </br>
   </br>
-  Atualmente, atuo como <strong>Desenvolvedor Fullstack</strong> em uma startup.
+  Currently, I'm working as a <strong>FullStack Developer</strong> at a startup.
 </p>
 
-
-  
-  
-</div>  
-
 <p align="left">
-   Confira meu portfólio:
+   Check out my portfolio:
   
   <a href="https://ivopenha.site" target="_blank">
      ivopenha.site
@@ -24,11 +18,9 @@
 </p>
 
 <p align="left">
-  Entre em contato comigo através das minhas redes sociais: ⤵️
+  Feel free to reach out to me through my social media: ⤵️
 </p>
 
-
-<div align="left">
 <div align="left">
   <a href="mailto:penha.ivo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-DB4437?style=flat-square&labelColor=DB4437&logo=gmail&logoColor=white&link=mailto:penha.ivo.dev@gmail.com" alt="Gmail"/>
@@ -41,18 +33,15 @@
   <a href="https://www.linkedin.com/in/ivo-penha/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivo-penha" alt="Linkedin" />
   </a>
-  
-</div>  
-  
 </div>  
 
 </br>
 
 ---
 
-<h3>Minhas Skills :rocket:</h3>
+<h3>My Skills :rocket:</h3>
 
-  **Aplicações e Dados:**
+  **Applications and Data:**
   
   ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
   ![DOTNET](https://img.shields.io/badge/-.Net-333333?style=flat&logo=DotNet)
@@ -75,12 +64,10 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   
 
-**Ferramentas:**
+**Tools:**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=fff)
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 </br>
-
-
