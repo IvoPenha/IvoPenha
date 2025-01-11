@@ -12,8 +12,8 @@
 <p align="left">
    Check out my portfolio:
   
-  <a href="https://ivopenha.site?locale=en" target="_blank">
-     ivopenha.site
+  <a href="https://ivopenha.com?locale=en" target="_blank">
+     ivopenha.com
   </a>
 </p>
 
