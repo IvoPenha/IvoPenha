@@ -3,10 +3,10 @@
 <h3 align="left">Hey there, welcome to my Github! :wave:</h3>
 
 <p align="left"> 
-  My name is Pedro Ivo, a <strong>FullStack Developer</strong> with over <strong>4 years</strong> of experience.
+  My name is Pedro Ivo, a <strong>Software Engineer</strong> with <strong>5+ years</strong> of experience.
   </br>
   </br>
-  Currently, I'm working as a <strong>FullStack Developer</strong> at a startup.
+  Currently, I'm working as a <strong>Backend Software Engineer</strong> at a Behavioral Profile Company.
 </p>
 
 <p align="left">
