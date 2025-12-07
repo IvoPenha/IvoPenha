@@ -6,7 +6,7 @@
   My name is Pedro Ivo, a <strong>Software Engineer</strong> with <strong>5+ years</strong> of experience.
   </br>
   </br>
-  Currently, I'm working as a <strong>Backend Software Engineer</strong> at a Behavioral Profile Company.
+  Currently, I'm working as a <strong>Backend Software Engineer</strong> 
 </p>
 
 <p align="left">
